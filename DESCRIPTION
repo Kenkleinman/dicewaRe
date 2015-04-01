@@ -6,10 +6,10 @@ Date: 2015-03-30
 Authors@R: person("Ken", "Kleinman", email = "ken.kleinman@gmail.com",
                   role = c("aut", "cre"))
 Maintainer: <ken.kleinman@gmail.com>
-Description: This package uses truly random numbers from Random.org to generate
-    passphrases using the diceware algorithm/wordlist.  The diceware approach is
-    a simple way to generate a secure and memorizable passphrase using physical
-    dice.  Here, you use truly random numbers instead.
+Description: This package uses what are claimed to be truly random numbers (from
+    Random.org) to generate passphrases using the diceware algorithm/wordlist.
+    The diceware approach is a simple way to generate a secure and memorizable
+    passphrase using physical dice.  Here, you use truly random numbers instead.
 Imports:
     random(>= 0.2.3)
 Depends:
