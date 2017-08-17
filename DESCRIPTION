@@ -18,5 +18,3 @@ License: GPL-3
 LazyData: TRUE
 Suggests: knitr
 VignetteBuilder: knitr
-" " 
-" " 
